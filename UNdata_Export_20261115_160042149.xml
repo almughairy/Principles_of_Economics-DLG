@@ -1,0 +1,58 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">Final consumption expenditure</field>
+            <field name="Value">23834401143</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">Household consumption expenditure (including Non-profit institutions serving households)</field>
+            <field name="Value">16118228332</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">General government final consumption expenditure</field>
+            <field name="Value">7716172811</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">Gross capital formation</field>
+            <field name="Value">10236360210</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">Gross fixed capital formation (including Acquisitions less disposals of valuables)</field>
+            <field name="Value">10519411484</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">Changes in inventories</field>
+            <field name="Value">-283051273</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">Exports of goods and services</field>
+            <field name="Value">27218064839</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">Imports of goods and services</field>
+            <field name="Value">20094573266</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2024</field>
+            <field name="Item">Gross Domestic Product (GDP)</field>
+            <field name="Value">41194252927</field>
+        </record>
+    </data>
+</ROOT>
